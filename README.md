@@ -17,26 +17,43 @@
 <img src="https://img.shields.io/github/followers/shivyadav11?label=Followers&style=for-the-badge&color=00c9a7&logo=github" />
 <img src="https://img.shields.io/github/stars/shivyadav11?label=Stars&style=for-the-badge&color=f9c74f&logo=github" />
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internships%20%26%20Collaboration-00c9a7?style=for-the-badge&logo=checkmarx&logoColor=white" />
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```js
-const shiv = {
-  name: "Shiv Yadav",
-  role: "Backend Focused MERN Developer",
-  pronouns: "he/him",
-  currentlyBuilding: "College Major Project",
-  currentlyLearning: ["More programming languages", "System design", "DSA"],
-  techStack: ["JavaScript", "Node.js", "Express", "MongoDB", "React"],
-  tools: ["Git", "GitHub", "VS Code", "Postman"],
-  funFact: "I love playing football ⚽",
-  lookingFor: "Internships, collabs and exciting projects",
-  motto: "Code. Break. Fix. Repeat."
-};
-```
+I am a **backend focused MERN developer** who enjoys building clean, working web applications from idea to deployment. I like designing APIs, structuring data in MongoDB, and connecting everything to a simple, usable frontend. Right now I am sharpening my fundamentals, building real projects, and exploring more programming languages.
+
+<div align="center">
+
+| | |
+|:--|:--|
+| 🎯 **Role** | Backend Focused MERN Developer |
+| 🔭 **Currently Building** | College Major Project |
+| 🌱 **Currently Learning** | More programming languages, System Design, DSA |
+| 🤝 **Open To** | Internships, collaborations and exciting projects |
+| ⚽ **Outside Code** | Football |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💼 What I Do
+
+<div align="center">
+
+| ⚙️ Backend | 🗄️ Database | 🎨 Frontend |
+|:--:|:--:|:--:|
+| REST APIs with **Node.js** and **Express** | Data modeling with **MongoDB** | Responsive UI with **React**, **HTML** and **CSS** |
+| Server side logic and routing | Schemas, queries and storage | Interactive pages with **JavaScript** |
+| Testing endpoints with **Postman** | Connecting APIs to the database | Clean and user friendly layouts |
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -44,7 +61,17 @@ const shiv = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,git,github,vscode,postman&perline=11&theme=dark" />
+**⚙️ Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+
+**🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+
+**🛠️ Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
 <br/><br/>
 
@@ -53,6 +80,9 @@ const shiv = {
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 </div>
@@ -77,11 +107,29 @@ const shiv = {
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivyadav11&repo=Mobile-Digital-Clock&theme=tokyonight&hide_border=false" />
 </a>
 
+<br/>
+
+<a href="https://github.com/shivyadav11?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Projects-%E2%86%92-7b2ff7?style=for-the-badge&logo=github&logoColor=white" /></a>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats
+## 🎯 Current Focus and Goals
+
+<div align="center">
+
+| 🔭 Now | 🌱 Learning | 🏁 Goals |
+|:--:|:--:|:--:|
+| College Major Project | System Design | Land an internship |
+| Building MERN apps | Data Structures and Algorithms | Contribute to open source |
+| Improving code quality | New programming languages | Ship more full stack projects |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -103,9 +151,29 @@ const shiv = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 💡 Quick Facts
+
+<details>
+<summary><b>Click to know more about me</b></summary>
+
+<br/>
+
+- 🎓 Student developer focused on backend and full stack web development
+- ⚽ I love playing football and I carry the same team spirit into my projects
+- 🧠 My motto: *Code. Break. Fix. Repeat.*
+- 📬 Best way to reach me: LinkedIn or email
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 💬 Let's Connect
 
 <div align="center">
+
+Have an idea, an internship opportunity, or want to collaborate? I would love to hear from you.
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/shiv-yadav-b89509379"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
 &nbsp;&nbsp;
