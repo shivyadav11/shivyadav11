@@ -86,7 +86,8 @@ const shiv = {
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivyadav11&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" />
-<img height="180" src="https://streak-stats.demolab.com/?user=shivyadav11&theme=tokyonight&hide_border=false" />
+
+<img height="180" src="https://streak-stats.demolab.com/?user=shivyadav11&theme=tokyonight&hide_border=false&hide_total_contributions=true&timezone=Asia%2FKolkata" />
 
 </div>
 
