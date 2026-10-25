@@ -56,18 +56,19 @@ I am a **backend focused MERN developer** who enjoys building clean, working web
 
 **⚙️ Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" /></a>
 
 **🎨 Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" /></a>
 
 **🛠️ Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" /></a>
 
 <br/><br/>
 
+<a href="#">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -77,6 +78,7 @@ I am a **backend focused MERN developer** who enjoys building clean, working web
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</a>
 
 </div>
 
@@ -171,13 +173,13 @@ Have an idea, an internship opportunity, or want to collaborate? I would love to
 
 <br/><br/>
 
-| | |
-|:--:|:--|
-| <img src="https://skillicons.dev/icons?i=linkedin" height="32" /> | `linkedin.com/in/shiv-yadav-b89509379` |
-| <img src="https://skillicons.dev/icons?i=twitter" height="32" /> | `@shiv_yadav011` |
-| <img src="https://skillicons.dev/icons?i=gmail" height="32" /> | `shivyadav0844@gmail.com` |
+<a href="https://www.linkedin.com/in/shiv-yadav-b89509379"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
+&nbsp;&nbsp;
+<a href="https://x.com/shiv_yadav011"><img src="https://skillicons.dev/icons?i=twitter" height="45" /></a>
+&nbsp;&nbsp;
+<a href="mailto:shivyadav0844@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
 
-<br/>
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1500&color=F75C7E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile;Open+to+collaboration+and+new+opportunities;Lets+build+something+awesome+together" alt="Footer typing" />
 
