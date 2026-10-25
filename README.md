@@ -133,13 +133,18 @@ I am a **backend focused MERN developer** who enjoys building clean, working web
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivyadav11&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivyadav11&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_color=7aa2f7&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivyadav11&layout=compact&langs_count=6&theme=tokyonight&border_color=7aa2f7" />
 
-<img height="180" src="https://streak-stats.demolab.com/?user=shivyadav11&theme=tokyonight&hide_border=false&hide_total_contributions=true&timezone=Asia%2FKolkata" />
+<br/>
+
+<img height="170" src="https://streak-stats.demolab.com/?user=shivyadav11&theme=tokyonight&border=7aa2f7&timezone=Asia%2FKolkata" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivyadav11&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=00f5d4&area=true&area_color=7aa2f7&title_color=7aa2f7&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🐍 Contribution Snake
 
