@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shiv%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Focused%20MERN%20Developer&descSize=18&descAlignY=60" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hii+There,+I'm+Shiv+Yadav+👋;Backend+Focused+MERN+Developer+🚀;Always+Learning,+Constantly+Building+💻;Let's+Build+Something+Awesome+✨" alt="Typing SVG" />
+<h2 align="center">Hii There, I'm Shiv Yadav 👋</h2>
+<h3 align="center">Backend Focused MERN Developer 🚀</h3>
+<p align="center"><i>Always Learning, Constantly Building 💻</i></p> font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hii+There,+I'm+Shiv+Yadav+👋;Backend+Focused+MERN+Developer+🚀;Always+Learning,+Constantly+Building+💻;Let's+Build+Something+Awesome+✨" alt="Typing SVG" />
 
 <br/>
 
