@@ -4,9 +4,7 @@
 
 <h2 align="center">Hii There, I'm Shiv Yadav 👋</h2>
 <h3 align="center">Backend Focused MERN Developer 🚀</h3>
-<p align="center"><i>Always Learning, Constantly Building 💻</i></p> font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hii+There,+I'm+Shiv+Yadav+👋;Backend+Focused+MERN+Developer+🚀;Always+Learning,+Constantly+Building+💻;Let's+Build+Something+Awesome+✨" alt="Typing SVG" />
-
-<br/>
+<p align="center"><i>Always Learning, Constantly Building 💻</i></p> 
 
 <a href="https://www.linkedin.com/in/shiv-yadav-b89509379"><img src="https://img.shields.io/badge/CONNECT%20ME%20ON-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/shiv_yadav011"><img src="https://img.shields.io/badge/FOLLOW%20ME%20ON-X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
