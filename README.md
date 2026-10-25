@@ -6,20 +6,13 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/shiv-yadav-b89509379"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/shiv_yadav011"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="mailto:shivyadav0844@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/shivyadav11?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repos-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=shivyadav11&label=Profile%20Views&color=7b2ff7&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/shivyadav11?label=Followers&style=for-the-badge&color=00c9a7&logo=github" />
-<img src="https://img.shields.io/github/stars/shivyadav11?label=Stars&style=for-the-badge&color=f9c74f&logo=github" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Status-Open%20to%20Internships%20%26%20Collaboration-00c9a7?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<a href="https://www.linkedin.com/in/shiv-yadav-b89509379"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="https://x.com/shiv_yadav011"><img src="https://skillicons.dev/icons?i=twitter" height="48" alt="X" /></a>
+&nbsp;&nbsp;
+<a href="mailto:shivyadav0844@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/shivyadav11"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" /></a>
 
 </div>
 
@@ -107,10 +100,6 @@ I am a **backend focused MERN developer** who enjoys building clean, working web
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivyadav11&repo=Mobile-Digital-Clock&theme=tokyonight&hide_border=false" />
 </a>
 
-<br/>
-
-<a href="https://github.com/shivyadav11?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Projects-%E2%86%92-7b2ff7?style=for-the-badge&logo=github&logoColor=white" /></a>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -146,6 +135,8 @@ I am a **backend focused MERN developer** who enjoys building clean, working web
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -180,13 +171,13 @@ Have an idea, an internship opportunity, or want to collaborate? I would love to
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/shiv-yadav-b89509379"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
-&nbsp;&nbsp;
-<a href="https://x.com/shiv_yadav011"><img src="https://skillicons.dev/icons?i=twitter" height="45" /></a>
-&nbsp;&nbsp;
-<a href="mailto:shivyadav0844@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
+| | |
+|:--:|:--|
+| <img src="https://skillicons.dev/icons?i=linkedin" height="32" /> | `linkedin.com/in/shiv-yadav-b89509379` |
+| <img src="https://skillicons.dev/icons?i=twitter" height="32" /> | `@shiv_yadav011` |
+| <img src="https://skillicons.dev/icons?i=gmail" height="32" /> | `shivyadav0844@gmail.com` |
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1500&color=F75C7E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile;Open+to+collaboration+and+new+opportunities;Lets+build+something+awesome+together" alt="Footer typing" />
 
